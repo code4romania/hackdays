@@ -10,4 +10,9 @@ HackDay-urile sunt super simple! Proiectele active sunt deja în development, au
 
 Am vrut sa organizam informatia asta cat mai simplu si mai accesibil, deci mai jos ai toate datele de care ai nevoie ca sa poti sa contribui cat mai simplu la unul din proiectele noastre.
 
-## Hackday #2 - 
+## Contributing guide
+
+This project is built by amazing volunteers and you can be one of them! Here's a list of ways in which you can contribute to this project.
+
+##  ![Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
+
