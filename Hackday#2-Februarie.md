@@ -39,9 +39,13 @@ Github Board: https://github.com/orgs/code4romania/projects/9
 
 The project aims to turn into the public library of Romanian civic tech.
 
-Tehnologii: Javascript, Express.js, Angular 2, Bootstrap
+We are currently working on some fixes and small improvements for the first version of the app. And also looking for ideas to start developing version 2. We have some [UX](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3AUX), [UI](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AUI) and [Research](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch) tasks and also some small front end & API development issues. 
 
-Github Board: https://github.com/orgs/code4romania/projects/8
+Tehnologii: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js), [Angular 2](https://github.com/code4romania/civichq-client/labels/angular)
+
+Github Board: https://github.com/orgs/code4romania/projects/8  
+Slack channel: #  
+Contact person: @sfpavel , @aniri on slack  
 
 ### Monitorizare Vot
 
