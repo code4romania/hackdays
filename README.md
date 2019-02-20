@@ -10,9 +10,26 @@ HackDay-urile sunt super simple! Proiectele active sunt deja în development, au
 
 Am vrut sa organizam informatia asta cat mai simplu si mai accesibil, deci mai jos ai toate datele de care ai nevoie ca sa poti sa contribui cat mai simplu la unul din proiectele noastre.
 
+[Where do I find info about the projects?](#hackday-projects) | [How can I assign a task to me?](#assigning-tasks) | [How do I contribute to a project?](#contributing-guide)
+
+## Hackday projects
+
+###  ![Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
+
+## Assigning tasks
+
+Available tasks are found in the project boards, in the first columns. Tasks in the 'In progress' column are the ones already assigned to someone. 
+
+If you find an issue that you would like to work on, please mention the issue number/link in the general hackday slack channel before starting working on it. One of the organisers will then move the task in the 'In Progress' tab.
+
+Also please join the slack channel for that specific project. 
+
+Please mention in slack if you need any help with a task or you want to change tasks. 
+
 ## Contributing guide
 
-This project is built by amazing volunteers and you can be one of them! Here's a list of ways in which you can contribute to this project.
+Each project repo has all the info related to setting up the project in the Readme.md file. The info about how you can contribute to a repo are found in the Contributing.md file.
 
-##  ![Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
+If you want to read more about our github workflow and to find out more info about how to collaborate on projects on github, please check out [this file](https://github.com/code4romania/civichq-client/blob/develop/.github/WORKFLOW.md).
 
+If you want to read more about contributing to open source projects, we have prepared [some additional resources](https://code4romania.github.io/knowledge/#contributing-to-open-source).
