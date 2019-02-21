@@ -14,7 +14,7 @@ Am vrut sa organizam informatia asta cat mai simplu si mai accesibil, deci mai j
 
 ## Hackday projects
 
-###  ![Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
+###  [Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
 
 ## Assigning tasks
 
