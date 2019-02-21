@@ -7,7 +7,7 @@ ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pen
 
 Tehnologii: Angular
 
-Github Board: https://github.com/orgs/code4romania/projects/13
+[Github Board](https://github.com/orgs/code4romania/projects/13)
 
 ### Data Portal
 
@@ -17,7 +17,7 @@ Last but not least. The app will serve as a base for developing Romania’s open
 
 Tehnologii: Python 3
 
-Github Board: https://github.com/orgs/code4romania/projects/12
+[Github Board](https://github.com/orgs/code4romania/projects/12)
 
 ### Catalog politic - Declaratii de avere
 
@@ -25,7 +25,7 @@ Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app f
 
 Tehnologii: Python 3
 
-Github Board: https://github.com/orgs/code4romania/projects/10
+[Github Board](https://github.com/orgs/code4romania/projects/10)
 
 ### Redirectioneaza 2%
 
@@ -33,7 +33,7 @@ Helping NGOs collect the 230 tax form
 
 Tehnologii: Python
 
-Github Board: https://github.com/orgs/code4romania/projects/9
+[Github Board](https://github.com/orgs/code4romania/projects/9)
 
 ### Centru Civic
 
@@ -43,8 +43,10 @@ We are currently working on some fixes and small improvements for the first vers
 
 Tehnologii: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js), [Angular 2](https://github.com/code4romania/civichq-client/labels/angular)
 
-Github Board: https://github.com/orgs/code4romania/projects/8  
+[Github Board](https://github.com/orgs/code4romania/projects/8)
+
 Slack channel: #  
+
 Contact person: @sfpavel , @aniri on slack  
 
 ### Monitorizare Vot
@@ -53,5 +55,5 @@ A digital tool for election monitoring.
 
 Tehnologii: Android SDK 27, Java, RxJava, Retrofit, Realm, Swift, PHP, React, .Net Core
 
-Github Board: https://github.com/orgs/code4romania/projects/7
+[Github Board](https://github.com/orgs/code4romania/projects/7)
 
