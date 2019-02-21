@@ -71,5 +71,9 @@ A digital tool for election monitoring.
 
 Tehnologii: [Android SDK 27, Java, RxJava, Retrofit, Realm](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aandroid), [Swift](https://github.com/code4romania/monitorizare-vot-ios/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aios), [PHP/Laravel](https://github.com/code4romania/monitorizare-vot-votanti-api/issues), [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Areact)
 
+Slack channel: #
+
+Contact person: @bogdanvizureanu, @aniri on Slack
+
 [Github Board](https://github.com/orgs/code4romania/projects/7)
 
