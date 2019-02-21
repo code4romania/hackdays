@@ -30,10 +30,10 @@ Also please join the slack channel for that specific project.
 
 :scroll: Each project repo has all the info related to setting up the project in the Readme.md file. The info about how you can contribute to a repo are found in the Contributing.md file.
 
-:heavy_check_mark: If you want to read more about our github workflow and to find out more info about how to collaborate on projects on github, please check out [this file](https://github.com/code4romania/civichq-client/blob/develop/.github/WORKFLOW.md).
+:twisted_rightwards_arrows: If you want to read more about our github workflow and to find out more info about how to collaborate on projects on github, please check out [this file](https://github.com/code4romania/civichq-client/blob/develop/.github/WORKFLOW.md).
 
 :open_file_folder: If you want to read more about contributing to open source projects, we have prepared [some additional resources](https://code4romania.github.io/knowledge/#contributing-to-open-source).
 
 ## Next steps
 
-You are of course more than welcome to contribute to the projects between hackdays :two_hearts: Please contact a member of the team to let them know you are interested in continuing your contributions to the project. You will then keep in touch on slack with the rest of the contributors to that project and get more issues assigned to you!
+:computer: You are of course more than welcome to contribute to the projects between hackdays :two_hearts: Please contact a member of the team to let them know you are interested in continuing your contributions to the project. You will then keep in touch on slack with the rest of the contributors to that project and get more issues assigned to you!
