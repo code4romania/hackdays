@@ -57,23 +57,40 @@ The project aims to turn into the public library of Romanian civic tech.
 
 We are currently working on some fixes and small improvements for the first version of the app. And also looking for ideas to start developing version 2. We have some [UX](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3AUX), [UI](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AUI) and [Research](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch) tasks and also some small front end & API development issues. 
 
-Tehnologii: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js), [Angular 2](https://github.com/code4romania/civichq-client/labels/angular)
+Tech stack: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js), [Angular 2](https://github.com/code4romania/civichq-client/labels/angular)
+
+:clipboard: [Github Board](https://github.com/orgs/code4romania/projects/8)
+
+[![UX issues](https://img.shields.io/badge/open%20issues-UX-blue.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3AUX)  [![UI issues](https://img.shields.io/badge/open%20issues-UI-79A0D1.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AUI)  [![Research issues](https://img.shields.io/badge/open%20issues-Research-9cf.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch)  [![Express.js issues](https://img.shields.io/badge/open%20issues-backend-yellow.svg?style=for-the-badge)](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js)  [![Angular issues](https://img.shields.io/badge/open%20issues-frontend-orange.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/labels/angular) 
 
 Slack channel: #  
 
-Contact person: @sfpavel , @aniri on slack  
-
-[Github Board](https://github.com/orgs/code4romania/projects/8)
+:question: Contact person: @sfpavel , @aniri on slack  
 
 ### Monitorizare Vot
 
-A digital tool for election monitoring.
+A digital tool for election monitoring. It has three main parts: 
 
-Tehnologii: [Android SDK 27, Java, RxJava, Retrofit, Realm](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aandroid), [Swift](https://github.com/code4romania/monitorizare-vot-ios/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aios), [PHP/Laravel](https://github.com/code4romania/monitorizare-vot-votanti-api/issues), [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Areact)
+- a [public platform](https://monitorizarevot.ro/) where anyone can read the voting rules and report if they notice anything that goes against the voting rules 
+- native apps for both Android and iOS allowing observers to send real-time reports from the field
+- admin platform for NGOs that register election observers
 
-Slack channel: #
+We are currently working on:
 
-Contact person: @bogdanvizureanu, @aniri on Slack
+- small [fixes](https://github.com/code4romania/monitorizare-vot-android/issues/113) and [improvements](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+project%3Acode4romania%2F7) for the Android app
+- a new admin dashboard for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
 
-[Github Board](https://github.com/orgs/code4romania/projects/7)
+Tech stack:
+
+- public platform: [PHP](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) (Laravel 5) for the API, [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) on frontend
+- mobile apps: Java (Android), Swift; backed by a .Net Core API
+- NGO admin platform: .Net Core API and Angular 2 frontend
+
+:clipboard: [Github Board](https://github.com/orgs/code4romania/projects/7)
+
+[![Android issues](https://img.shields.io/badge/open%20issues-android-green.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Acode4romania%2F7+) [![PHP issues](https://img.shields.io/badge/open%20issues-php-yellow.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) 
+
+Slack channel: #  
+
+:question: Contact person: @bogdanvizureanu , @aniri on slack
 
