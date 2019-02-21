@@ -1,14 +1,14 @@
 # Repository to handle general information about Code4Romania Hackdays
 
-We are the one's we've been waiting for!
+We are the ones we've been waiting for!
 
-Daca ai ajuns aici inseamna ca esti unul din voluntarii care isi doresc sa doneze cateva ore din munca sa catre Code4Romania.
+Welcome! Since you're here, you must be a kind soul, willing to donate your time and skills to [Code for Romania](https://code4.ro/en/).
 
-De ceva timp, organizăm simultan, lunar in București, Iași, Timișoara și Cluj câte un eveniment de coding, numit HackDay. Acestea durează 12 ore, au loc în ultima sâmbătă a fiecărei luni și fac parte din programul nostru Tech for Social Good.
+We've been organizing HackDays for a while now. They are monthly events which unfold, simultaneously, in Bucharest, Iași, Timișoara and Cluj. A HackDay event is 12 hours long, and it occurs, as a general rule, during the last Saturday of each month. These events are part of our Tech for Social Good program.
 
-HackDay-urile sunt super simple! Proiectele active sunt deja în development, au taskuri sparte în boarduri de GitHub și au grade de dificultate clar specificate. Așadar își vor găsi de lucru și cei mai puțin experimentați, dar și seniorii. Taskurile sunt gândite să nu ia mai mult de câteva ore și echipa de la Code for Romania este prezentă pentru a ajuta participanții.
+HackDays are straightforward events! The ongoing projects list all the current Issues which require volunteer help on their respective GitHub project boards. All Issues are graded based on difficulty. Both experimented developers and beginners who are dabbling in a new language or framework can find something to work on. The tasks are intended to only take up a few hours of work at most. Any questions should be directed to the Code for Romanian tech team members. 
 
-Am vrut sa organizam informatia asta cat mai simplu si mai accesibil, deci mai jos ai toate datele de care ai nevoie ca sa poti sa contribui cat mai simplu la unul din proiectele noastre.
+Below you can find all the information you need in order to start contributing right away!
 
 [Where do I find info about the projects?](#hackday-project-boards) | [How can I assign a task to me?](#assigning-tasks) | [How do I contribute to a project?](#contributing-guide) | [Next steps after the hackdays](#next-steps)
 
@@ -18,19 +18,21 @@ Am vrut sa organizam informatia asta cat mai simplu si mai accesibil, deci mai j
 
 ## Assigning tasks
 
-:clipboard: Available tasks are found in the [project boards](#hackday-project-boards), in the first columns. Tasks in the 'In progress' column are the ones already assigned to someone. 
+:clipboard: Available tasks are found in the [project boards](#hackday-project-boards), in the first column. Tasks in the 'In progress' column are the ones already assigned to someone. 
 
-If you find an issue that you would like to work on, please mention the issue number/link in the general hackday slack channel before starting working on it. One of the organisers will then move the task in the 'In Progress' tab.
+Make sure the join the Slack channel dedicated to the project you want to work on.
 
-Also please join the slack channel for that specific project. 
+When you decide which issue to work on, please mention the issue number/link in the Slack channel dedicated to that project before starting working on it. One of the organisers will then move the task in the 'In Progress' tab.
 
-:question: Please mention in slack if you need any help with a task or you want to change tasks. 
+:question: Please mention in the dedicated Slack if you need any help with a task or you want to change tasks. 
 
 ## Contributing guide
 
-:scroll: Each project repo has all the info related to setting up the project in the Readme.md file. The info about how you can contribute to a repo are found in the Contributing.md file.
+:scroll: Each project repository has all the information related to setting up the project in the Readme.md file. 
 
-:twisted_rightwards_arrows: If you want to read more about our github workflow and to find out more info about how to collaborate on projects on github, please check out [this file](https://github.com/code4romania/civichq-client/blob/develop/.github/WORKFLOW.md).
+The information about how you can contribute to a repository are found in the Contributing.md file.
+
+:twisted_rightwards_arrows: If you want to read more about our GitHub workflow and how to collaborate on projects, please check out [this file](https://github.com/code4romania/civichq-client/blob/develop/.github/WORKFLOW.md).
 
 :open_file_folder: If you want to read more about contributing to open source projects, we have prepared [some additional resources](https://code4romania.github.io/knowledge/#contributing-to-open-source).
 
