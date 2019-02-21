@@ -10,15 +10,15 @@ HackDay-urile sunt super simple! Proiectele active sunt deja în development, au
 
 Am vrut sa organizam informatia asta cat mai simplu si mai accesibil, deci mai jos ai toate datele de care ai nevoie ca sa poti sa contribui cat mai simplu la unul din proiectele noastre.
 
-[Where do I find info about the projects?](#hackday-projects) | [How can I assign a task to me?](#assigning-tasks) | [How do I contribute to a project?](#contributing-guide) | [Next steps after the hackdays](#next-steps)
+[Where do I find info about the projects?](#hackday-project-boards) | [How can I assign a task to me?](#assigning-tasks) | [How do I contribute to a project?](#contributing-guide) | [Next steps after the hackdays](#next-steps)
 
-## Hackday projects
+## Hackday Project Boards
 
 ###  [Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
 
 ## Assigning tasks
 
-:clipboard: Available tasks are found in the project boards, in the first columns. Tasks in the 'In progress' column are the ones already assigned to someone. 
+:clipboard: Available tasks are found in the [project boards](#hackday-project-boards), in the first columns. Tasks in the 'In progress' column are the ones already assigned to someone. 
 
 If you find an issue that you would like to work on, please mention the issue number/link in the general hackday slack channel before starting working on it. One of the organisers will then move the task in the 'In Progress' tab.
 
