@@ -59,11 +59,11 @@ We are currently working on some fixes and small improvements for the first vers
 
 Tehnologii: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js), [Angular 2](https://github.com/code4romania/civichq-client/labels/angular)
 
-[Github Board](https://github.com/orgs/code4romania/projects/8)
-
 Slack channel: #  
 
 Contact person: @sfpavel , @aniri on slack  
+
+[Github Board](https://github.com/orgs/code4romania/projects/8)
 
 ### Monitorizare Vot
 
