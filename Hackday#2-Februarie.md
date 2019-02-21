@@ -5,13 +5,15 @@
 ### ANABI - Portalul Bunurilor Confiscate
 ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pentru Administrarea Bunurilor Indisponibilizate (ANABI) o platformă despre ce, cât și de unde se confiscă în România, din infracțiuni. Punem totul pe hartă, pentru ca tu să știi ce se petrece. ANABI va folosi platforma pentru a gestiona aceste bunuri la nivel național, inclusiv re-directionarea acestor resurse. Astfel, platforma va transparentiza procesul de utilizare a bunurilor confiscate.
 
-Tehnologii: [Angular](https://github.com/code4romania/anabi-gestiune-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aangular)
+Tech stack: [Angular](https://github.com/code4romania/anabi-gestiune-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aangular)
+
+:clipboard: [Github Board](https://github.com/orgs/code4romania/projects/13)
+
+[![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/anabi-gestiune-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aangular)
 
 Slack channel: #
 
-Contact person: @vlad.dinulescu @Bogdan Constantinescu on Slack
-
-[Github Board](https://github.com/orgs/code4romania/projects/13)
+:question: Contact person: @vlad.dinulescu @Bogdan Constantinescu on Slack
 
 ### Data Portal
 
@@ -19,37 +21,43 @@ Data Portal will be a CKAN-based user-friendly web application meant to showcase
 
 Last but not least. The app will serve as a base for developing Romania’s open data community: we will make our infrastructure and know-how available to volunteers interested in opening up and cleaning Romanian public data.
 
-Tehnologii: [Python 3](https://github.com/code4romania/ckanext-dataportaltheme/issues)
+Tech stack: [Python 3](https://github.com/code4romania/ckanext-dataportaltheme/issues)
+
+:clipboard: [Github Board](https://github.com/orgs/code4romania/projects/12)
+
+[![Python 3 issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/ckanext-dataportaltheme/issues)
 
 Slack channel: #
 
-Contact person: @costi on Slack
-
-[Github Board](https://github.com/orgs/code4romania/projects/12)
+:question: Contact person: @costi on Slack
 
 ### Catalog politic - Declaratii de avere
 
 Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
 
-Tehnologii: [Python 3](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
+Tech stack: [Python 3](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
+
+:clipboard: [Github Board](https://github.com/orgs/code4romania/projects/10)
+
+[![Python 3 issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
 
 Slack channel: #
 
-Contact person: @catileptic @radu.stefanescu on Slack
-
-[Github Board](https://github.com/orgs/code4romania/projects/10)
+:question: Contact person: @catileptic @radu.stefanescu on Slack
 
 ### Redirectioneaza 2%
 
 Helping NGOs collect the 230 tax form
 
-Tehnologii: [Python](https://github.com/code4romania/redirectioneaza/issues)
+Tech stack: [Python](https://github.com/code4romania/redirectioneaza/issues)
+
+:clipboard: [Github Board](https://github.com/orgs/code4romania/projects/9)
+
+[![Python issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/redirectioneaza/issues)
 
 Slack channel: #
 
-Contact person: @onel on Slack
-
-[Github Board](https://github.com/code4romania/redirectioneaza/issues)
+:question: Contact person: @onel on Slack
 
 ### Centru Civic
 
