@@ -11,7 +11,7 @@ ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pen
 
 [![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/anabi-gestiune-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aangular)
 
-[Slack channel](https://codeforromania.slack.com/messages/CGEBAPH29)
+**[Slack channel](https://codeforromania.slack.com/messages/CGEBAPH29)**
 
 :question: **Contact person**: @vlad.dinulescu @Bogdan Constantinescu on Slack
 
@@ -27,7 +27,7 @@ Last but not least. The app will serve as a base for developing Romania’s open
 
 [![Python 3 issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/ckanext-dataportaltheme/issues)
 
-[Slack channel](https://codeforromania.slack.com/messages/CGF3V9X63)
+**[Slack channel](https://codeforromania.slack.com/messages/CGF3V9X63)**
 
 :question: **Contact person**: @costi on Slack
 
@@ -41,7 +41,7 @@ Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app f
 
 [![Python 3 issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
 
-[Slack channel](https://codeforromania.slack.com/messages/CGF3WESK1)
+**[Slack channel](https://codeforromania.slack.com/messages/CGF3WESK1)**
 
 :question: **Contact person**: @catileptic @radu.stefanescu on Slack
 
@@ -55,7 +55,7 @@ Helping NGOs collect the 230 tax form
 
 [![Python issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/redirectioneaza/issues)
 
-[Slack channel](https://codeforromania.slack.com/messages/CGE0LAEMA)
+**[Slack channel](https://codeforromania.slack.com/messages/CGE0LAEMA)**
 
 :question: **Contact person**: @onel on Slack
 
@@ -71,7 +71,7 @@ We are currently working on some fixes and small improvements for the first vers
 
 [![UX issues](https://img.shields.io/badge/open%20issues-UX-blue.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3AUX)  [![UI issues](https://img.shields.io/badge/open%20issues-UI-79A0D1.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AUI)  [![Research issues](https://img.shields.io/badge/open%20issues-Research-9cf.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch)  [![Express.js issues](https://img.shields.io/badge/open%20issues-expressjs-yellow.svg?style=for-the-badge)](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js+project%3Acode4romania%2F8)  [![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?q=is%3Aopen+label%3Aangular+project%3Acode4romania%2F8) 
 
-[Slack channel](https://codeforromania.slack.com/messages/CGD9BHS56)
+**[Slack channel](https://codeforromania.slack.com/messages/CGD9BHS56)**
 
 :question: **Contact person**: @sfpavel , @aniri on slack  
 
@@ -98,7 +98,7 @@ We are currently working on:
 
 [![Android issues](https://img.shields.io/badge/open%20issues-android-green.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Acode4romania%2F7+) [![PHP issues](https://img.shields.io/badge/open%20issues-php-yellow.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) 
 
-[Slack channel](https://codeforromania.slack.com/messages/CGE0NEG5S)
+**[Slack channel](https://codeforromania.slack.com/messages/CGE0NEG5S)**
 
 :question: **Contact person**: @bogdanvizureanu , @aniri on slack
 
