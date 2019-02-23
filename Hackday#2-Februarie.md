@@ -21,7 +21,18 @@ Data Portal will be a CKAN-based user-friendly web application meant to showcase
 
 Last but not least. The app will serve as a base for developing Romania’s open data community: we will make our infrastructure and know-how available to volunteers interested in opening up and cleaning Romanian public data.
 
-**Tech stack**: [Python 2.7 Javascript HTML CSS](https://github.com/code4romania/ckanext-dataportaltheme/issues)
+We are currently working on:
+
+- implementing platform [UI](https://github.com/code4romania/ckanext-dataportaltheme/issues)
+- a  [github extension](https://github.com/code4romania/ckanext-githubfeed/issues) to bring the latest issues into DataPortal
+- a  [Medium extension](https://github.com/code4romania/ckanext-mediumfeed/issues) to bring all Medium posts into DataPortal
+
+
+**Tech stack**:
+
+- (backend) CKAN 2.8 Platform: Python 2.7
+- (frontend) CKAN 2.8 Templating engine: HTML, Javascript and CSS
+
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/12)**
 
