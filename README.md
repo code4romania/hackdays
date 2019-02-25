@@ -18,11 +18,13 @@ Below you can find all the information you need in order to start contributing r
 
 ## Assigning tasks
 
-:clipboard: Available tasks are found in the [project boards](#hackday-project-boards), in the first column. Tasks in the 'In progress' column are the ones already assigned to someone. 
+:clipboard: Available tasks are found in the [project boards](#hackday-project-boards), in the first column. Tasks in the **In progress** column are the ones already assigned to someone. 
 
 Make sure the join the Slack channel dedicated to the project you want to work on.
 
-When you decide which issue to work on, please mention the issue number/link in the Slack channel dedicated to that project before starting working on it. One of the organisers will then move the task in the 'In Progress' tab.
+When you decide which issue to work on, please mention the issue number/link in the Slack channel dedicated to that project before starting working on it. One of the organisers will then move the task in the **In Progress** tab.
+
+When you create the pull request that fixes the issue, please mention the issue link in the pull request comments.
 
 :question: Please mention in the dedicated Slack if you need any help with a task or you want to change tasks. 
 
