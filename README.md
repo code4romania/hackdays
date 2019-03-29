@@ -16,6 +16,8 @@ Below you can find all the information you need in order to start contributing r
 
 ###  [Hackday #2 Februarie](https://github.com/code4romania/hackdays/blob/master/Hackday%232-Februarie.md)
 
+###  [Hackday #3 Martie](https://github.com/code4romania/hackdays/blob/master/Hackday%233-March.md)
+
 ## Assigning tasks
 
 :clipboard: Available tasks are found in the [project boards](#hackday-project-boards), in the first column. Tasks in the **In progress** column are the ones already assigned to someone. 
