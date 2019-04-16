@@ -90,6 +90,7 @@ We are currently working on:
 - enhancements on [API](https://github.com/code4romania/monitorizare-vot/issues/111), merge the datamodel on NGO API and Mobile API 
 - enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) for May 2019 European Parlamentery elections release
 - a new admin dashboard for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
+- setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
 
 **Tech stack**:
 
@@ -99,6 +100,7 @@ We are currently working on:
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
 
+[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/labels/testing)
 [![Android issues](https://img.shields.io/badge/open%20issues-android-green.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Acode4romania%2F7+) [![iOS issues](https://img.shields.io/badge/open%20issues-iOS-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release)  [![PHP issues](https://img.shields.io/badge/open%20issues-php-yellow.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) [![.NET Core issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) [![Angular issues](https://img.shields.io/badge/open%20issues-angular-cyan.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release)
 
 
