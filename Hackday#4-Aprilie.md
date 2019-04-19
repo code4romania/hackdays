@@ -13,12 +13,11 @@ A digital tool for election monitoring. It has three main parts:
 
 We are currently working on:
 
-- small [fixes](https://github.com/code4romania/monitorizare-vot-android/issues/113) and [improvements](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+project%3Acode4romania%2F7) for the Android app
-- enhancements on [Android platform](https://github.com/code4romania/monitorizare-vot-android/labels/may-release) and [iOS platform](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release) for May 2019 European Parlamentery elections release
-- enhancements on [API](https://github.com/code4romania/monitorizare-vot/issues/111), merge the datamodel on NGO API and Mobile API 
+- enhancements on [API](https://github.com/code4romania/monitorizare-vot/issues/111), merge the datamodel on NGO API and Mobile API as we want to be able to push data from the NGO API to the Mobile API and for that we need to reuse the datamodel
 - enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) for May 2019 European Parlamentery elections release
-- a new admin dashboard for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
+- a new [admin dashboard](https://github.com/code4romania/monitorizare-vot-votanti-client/issues?q=is%3Aopen+is%3Aissue+label%3Amay-release) for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
 - setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
+- small [fixes](https://github.com/code4romania/monitorizare-vot-android/issues/113) and [improvements](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+project%3Acode4romania%2F7) for the Android app
 
 **Tech stack**:
 
