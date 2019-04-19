@@ -3,6 +3,40 @@
 
 ## Proiecte:
 
+### Monitorizare Vot
+
+A digital tool for election monitoring. It has three main parts: 
+
+- a [public platform](https://monitorizarevot.ro/) where anyone can read the voting rules and report if they notice anything that goes against the voting rules 
+- native apps for both Android and iOS allowing observers to send real-time reports from the field
+- admin platform for NGOs that register election observers
+
+We are currently working on:
+
+- small [fixes](https://github.com/code4romania/monitorizare-vot-android/issues/113) and [improvements](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+project%3Acode4romania%2F7) for the Android app
+- enhancements on [Android platform](https://github.com/code4romania/monitorizare-vot-android/labels/may-release) and [iOS platform](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release) for May 2019 European Parlamentery elections release
+- enhancements on [API](https://github.com/code4romania/monitorizare-vot/issues/111), merge the datamodel on NGO API and Mobile API 
+- enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) for May 2019 European Parlamentery elections release
+- a new admin dashboard for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
+- setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
+
+**Tech stack**:
+
+- public platform: [PHP](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) (Laravel 5) for the API, [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) on frontend
+- mobile apps: [Java (Android)](https://github.com/code4romania/monitorizare-vot-android/labels/may-release), [Swift](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release); backed by a [.NET Core API](https://github.com/code4romania/monitorizare-vot)
+- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot-ong) and [Angular 2](https://github.com/code4romania/monitorizare-vot-ong) frontend
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
+
+[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/labels/testing)
+[![Android issues](https://img.shields.io/badge/open%20issues-android-green.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Acode4romania%2F7+) [![iOS issues](https://img.shields.io/badge/open%20issues-iOS-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release)  [![PHP issues](https://img.shields.io/badge/open%20issues-php-yellow.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) [![.NET Core issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) [![Angular issues](https://img.shields.io/badge/open%20issues-angular-cyan.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release)
+
+
+**[Slack channel](https://codeforromania.slack.com/messages/CGE0NEG5S)**
+
+:question: **Contact person**: @radu.stefanescu , @aniri on slack
+
+
 ### ANABI - Portalul Bunurilor Confiscate
 ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pentru Administrarea Bunurilor Indisponibilizate (ANABI) o platformă despre ce, cât și de unde se confiscă în România, din infracțiuni. Punem totul pe hartă, pentru ca tu să știi ce se petrece. ANABI va folosi platforma pentru a gestiona aceste bunuri la nivel național, inclusiv re-directionarea acestor resurse. Astfel, platforma va transparentiza procesul de utilizare a bunurilor confiscate.
 
@@ -74,36 +108,3 @@ We are currently working on some fixes and small improvements for the first vers
 **[Slack channel](https://codeforromania.slack.com/messages/CGD9BHS56)**
 
 :question: **Contact person**: @radu.stefanescu , @aniri on slack  
-
-### Monitorizare Vot
-
-A digital tool for election monitoring. It has three main parts: 
-
-- a [public platform](https://monitorizarevot.ro/) where anyone can read the voting rules and report if they notice anything that goes against the voting rules 
-- native apps for both Android and iOS allowing observers to send real-time reports from the field
-- admin platform for NGOs that register election observers
-
-We are currently working on:
-
-- small [fixes](https://github.com/code4romania/monitorizare-vot-android/issues/113) and [improvements](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement+project%3Acode4romania%2F7) for the Android app
-- enhancements on [Android platform](https://github.com/code4romania/monitorizare-vot-android/labels/may-release) and [iOS platform](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release) for May 2019 European Parlamentery elections release
-- enhancements on [API](https://github.com/code4romania/monitorizare-vot/issues/111), merge the datamodel on NGO API and Mobile API 
-- enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) for May 2019 European Parlamentery elections release
-- a new admin dashboard for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
-- setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
-
-**Tech stack**:
-
-- public platform: [PHP](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) (Laravel 5) for the API, [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) on frontend
-- mobile apps: [Java (Android)](https://github.com/code4romania/monitorizare-vot-android/labels/may-release), [Swift](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release); backed by a [.NET Core API](https://github.com/code4romania/monitorizare-vot)
-- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot-ong) and [Angular 2](https://github.com/code4romania/monitorizare-vot-ong) frontend
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
-
-[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/labels/testing)
-[![Android issues](https://img.shields.io/badge/open%20issues-android-green.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Acode4romania%2F7+) [![iOS issues](https://img.shields.io/badge/open%20issues-iOS-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ios/labels/may-release)  [![PHP issues](https://img.shields.io/badge/open%20issues-php-yellow.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) [![.NET Core issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) [![Angular issues](https://img.shields.io/badge/open%20issues-angular-cyan.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release)
-
-
-**[Slack channel](https://codeforromania.slack.com/messages/CGE0NEG5S)**
-
-:question: **Contact person**: @radu.stefanescu , @aniri on slack
