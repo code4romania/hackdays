@@ -36,6 +36,19 @@ We are currently working on:
 
 :question: **Contact person**: @radu.stefanescu , @aniri on slack
 
+### Catalog politic - Declaratii de avere
+
+Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
+
+**Tech stack**: [Python 3](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/10)**
+
+[![Python 3 issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
+
+**[Slack channel](https://codeforromania.slack.com/messages/CGF3WESK1)**
+
+:question: **Contact person**: @catileptic @radu.stefanescu on Slack
 
 ### ANABI - Portalul Bunurilor Confiscate
 ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pentru Administrarea Bunurilor Indisponibilizate (ANABI) o platformă despre ce, cât și de unde se confiscă în România, din infracțiuni. Punem totul pe hartă, pentru ca tu să știi ce se petrece. ANABI va folosi platforma pentru a gestiona aceste bunuri la nivel național, inclusiv re-directionarea acestor resurse. Astfel, platforma va transparentiza procesul de utilizare a bunurilor confiscate.
