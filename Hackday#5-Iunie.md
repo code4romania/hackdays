@@ -37,6 +37,13 @@ We are currently working on:
 
 Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
 
+We are currently working on:
+
+- Docker-izing Catalog Politic - Digitalizare Declarații (which includes the web application used for digitalization and PyBossa)
+- creating automated tests
+- testing the workflow, manually, to ensure it works end to end and to get feedback on ways to improve on it
+- attahcing a real database to the project
+
 **Tech stack**: [Python 3](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/10)**
