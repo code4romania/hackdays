@@ -33,27 +33,6 @@ We are currently working on:
 
 :question: **Contact person**: @radu.stefanescu on slack
 
-### Rezultate Vot
-
-TODO add description
-
-We are currently working on:
-
-**Tech stack**:
-
-TODO 
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
-
-TODO update links
-[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/labels/testing)
-[![PHP issues](https://img.shields.io/badge/open%20issues-php-yellow.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) [![.NET Core issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) [![Angular issues](https://img.shields.io/badge/open%20issues-angular-cyan.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release)
-
-TODO
-**[Slack channel](https://codeforromania.slack.com/messages/CGE0NEG5S)**
-
-:question: **Contact person**: @radu.stefanescu on slack
-
 ### Catalog politic - Declaratii de avere
 
 Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
