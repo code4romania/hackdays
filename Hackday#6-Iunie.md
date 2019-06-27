@@ -104,7 +104,7 @@ The project aims to turn into the public library of Romanian civic tech.
 
 :question: **Contact person**: @radu.stefanescu @oliviavereha @aniri on slack  
 
-### RVM - Resource & Volunteer Management
+### RVM - Resource & Volunteer Management App
 
 RVM is a technical solution that will serve the Department for Emergency Situations in case of any natural or accidental crisis situation, allowing them to keep track of CSO resource stock and volunteering capacity at any given moment in time. The solution will cut down bureaucracy, human error and both human and time resource waste on logistical aspects of maintaining such a database up to date and make use of it in times of distress.
 
@@ -129,5 +129,27 @@ https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy)
 
 
 **[Slack channel](https://codeforromania.slack.com/messages/CKRQ1TF09)**
+
+:question: **Contact person**: @radu.stefanescu on Slack
+
+
+### Legal Consultation App
+
+Legal Consultation App is a digital tool to allow groups of experts to work directly on the text of law proposals, to contribute feedback, suggestions, comments, vote and amend certain proposals, articles or comments of other participants etc. and then automatically reinforce the final document. This tool will make it easier to consult experts with enough time to give everyone an opinion, eliminating unnecessary bureaucracy and allowing real-time access to the same information for thousands of people who otherwise would only interact with a single contact point.
+
+Wireframes for the project can be found here:
+https://www.figma.com/file/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation
+
+**Tech stack**: 
+[Angular](https://github.com/code4romania/legal-consultation-client/issues),
+[Java](https://github.com/code4romania/legal-consultation-api/issues)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/15)**
+
+
+[![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-client/issues) 
+[![Java/Spring Boot issues](https://img.shields.io/badge/open%20issues-react%20native-blue.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-api/issues)
+
+**[Slack channel](https://codeforromania.slack.com/messages/CKRS59XTK)**
 
 :question: **Contact person**: @radu.stefanescu on Slack
