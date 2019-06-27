@@ -90,6 +90,8 @@ Helping NGOs collect the 230 tax form
 The project aims to turn into the public library of Romanian civic tech.
 
 We are currently working on some fixes and small improvements for the first version of the app. We also have some new designs for the site. We have some [Front end](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3Afront-end) issues and [Research](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch) tasks and also some small API development issues. We would also like to set up some automated tests for the API so we have some open [testing](https://github.com/code4romania/civichq-api/labels/testing) tasks as well.
+There are also some [API defects](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Abug) that hinder the updated deployed solution.
+Another step for improving the solution is to provide a [Dockerfile](https://github.com/code4romania/civichq-api/issues/68) for running this solution as a standalone container.
 
 **Tech stack**: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js+project%3Acode4romania%2F8), [Angular 7](https://github.com/code4romania/civichq-client/issues?q=is%3Aopen+label%3Aangular+project%3Acode4romania%2F8)
 
