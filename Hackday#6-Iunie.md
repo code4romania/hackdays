@@ -46,7 +46,7 @@ We are currently working on:
 - testing the workflow, manually, to ensure it works end to end and to get feedback on ways to improve on it
 
 
-**Tech stack**: [Python 3](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
+**Tech stack**: [Python3](https://github.com/code4romania/catpol-declaratii/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Apython)
 [Docker](https://github.com/code4romania/catpol-declaratii/issues?q=is%3Aissue+is%3Aopen+label%3ADocker)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/10)**
