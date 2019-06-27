@@ -115,9 +115,9 @@ The project has 3 modules:
 
 Wireframes for the solution can be found here: 
 
-[Web Wireframes](https://www.figma.com/file/K7Qqywpx1QFVzG1ml2Fa3qsv/Resource-%26-Volunteer-Management-App)
+- [Web Wireframes](https://www.figma.com/file/K7Qqywpx1QFVzG1ml2Fa3qsv/Resource-%26-Volunteer-Management-App)
 
-[Mobil App Wireframes](https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy))
+- [Mobil App Wireframes](https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy))
 
 
 **Tech stack**: [Angular](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen+label%3Aangular),
@@ -142,7 +142,7 @@ Legal Consultation App is a digital tool to allow groups of experts to work dire
 
 Wireframes for the project can be found here:
 
-[Legal Consultation Wireframes](https://www.figma.com/file/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation)
+- [Legal Consultation Wireframes](https://www.figma.com/file/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation)
 
 **Tech stack**: 
 [Angular](https://github.com/code4romania/legal-consultation-client/issues),
