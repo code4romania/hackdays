@@ -20,7 +20,9 @@ Below you can find all the information you need in order to start contributing r
 
 ###  [Hackday #4 Aprilie](https://github.com/code4romania/hackdays/blob/master/Hackday%234-Aprilie.md)
 
-###  [Hackday #5 Iunie](https://github.com/code4romania/hackdays/blob/master/Hackday%235-Iunie.md)
+###  [Hackday #5 Mai](https://github.com/code4romania/hackdays/blob/master/Hackday%235-Mai.md)
+
+###  [Hackday #6 Iunie](https://github.com/code4romania/hackdays/blob/master/Hackday%236-Iunie.md)
 
 ## Assigning tasks
 
