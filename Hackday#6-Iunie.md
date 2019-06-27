@@ -157,3 +157,18 @@ Wireframes for the project can be found here:
 **[Slack channel](https://codeforromania.slack.com/messages/CKRS59XTK)**
 
 :question: **Contact person**: @radu.stefanescu on Slack
+
+
+### Nu va suparati
+
+Nu va suparati is a platform that facilitates the access to public information. It is based on Alaveteli, which an open-source platform for making public freedom of information requests to public bodies. Built to help citizens request information, and view and comment on other people’s requests, all requests made through Alaveteli, and their responses are published online for everyone to see.
+
+The project is at scaffolding phase, an Alaveteli instance needs to be set up.
+More information about getting started with an implementation for Alaveteli can be found here:
+- [Getting started](https://alaveteli.org/docs/getting_started/)
+- [Documentation](https://alaveteli.org/docs/)
+
+
+**[Slack channel](https://codeforromania.slack.com/messages/CK69R9D45)**
+
+:question: **Contact person**: @catileptic on Slack
