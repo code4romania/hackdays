@@ -148,7 +148,7 @@ https://www.figma.com/file/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation
 
 
 [![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-client/issues) 
-[![Java/Spring Boot issues](https://img.shields.io/badge/open%20issues-react%20native-blue.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-api/issues)
+[![Java/Spring Boot issues](https://img.shields.io/badge/open%20issues-java-green.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-api/issues)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CKRS59XTK)**
 
