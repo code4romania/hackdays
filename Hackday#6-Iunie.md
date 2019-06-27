@@ -72,20 +72,6 @@ ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pen
 
 :question: **Contact person**: @vlad.dinulescu @Bogdan Constantinescu @alex_albu on Slack
 
-### Redirectioneaza 2%
-
-Helping NGOs collect the 230 tax form
-
-**Tech stack**: [Python](https://github.com/code4romania/redirectioneaza/issues)
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/9)**
-
-[![Python issues](https://img.shields.io/badge/open%20issues-python-green.svg?style=for-the-badge)](https://github.com/code4romania/redirectioneaza/issues)
-
-**[Slack channel](https://codeforromania.slack.com/messages/CGE0LAEMA)**
-
-:question: **Contact person**: @onel on Slack
-
 ### Centru Civic
 
 The project aims to turn into the public library of Romanian civic tech.
