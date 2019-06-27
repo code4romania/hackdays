@@ -17,6 +17,7 @@ After the latest elections, we realized we need to enhance the platform with new
 - a new [admin dashboard](https://github.com/code4romania/monitorizare-vot-votanti-client/issues?q=is%3Aopen+is%3Aissue+label%3Amay-release) for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
 - setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
 - integrate the realtime vote counting project in the public platform of Monitorizare Vot (https://github.com/code4romania/rezultate-vot/issues)
+- improve both the codebase and the UX of the mobile apps, for this we have some [research tasks](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch)
 
 **Tech stack**:
 
