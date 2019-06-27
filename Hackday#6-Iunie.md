@@ -112,6 +112,7 @@ The project has 3 modules:
 - An API that will serve both the web client and the mobile application
 - A web application client, that will be used by administrators and NGOs
 - A mobile application, used by DSU agents
+
 Wireframes for the solution can be found here: 
 https://www.figma.com/file/K7Qqywpx1QFVzG1ml2Fa3qsv/Resource-%26-Volunteer-Management-App
 https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy)
