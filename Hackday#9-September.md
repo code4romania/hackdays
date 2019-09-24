@@ -49,7 +49,7 @@ Currently, the project has 2 main parts:
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/17)**
 
-[![Gatsby issues](https://img.shields.io/badge/open%20issues-QA-purple.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic/issues) [![React issues](https://img.shields.io/badge/open%20issues-QA-orange.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic-form/issues)
+[![Gatsby issues](https://img.shields.io/badge/open%20issues-gatsbyjs-purple.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic/issues) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic-form/issues)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CNA1BEP0S)**
 
@@ -68,7 +68,7 @@ Currently our focus is on:
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/18)**
 
-[![dotnet issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Adotnet) [![React issues](https://img.shields.io/badge/open%20issues-react-green.svg?style=for-the-badge)](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Areact)
+[![dotnet issues](https://img.shields.io/badge/open%20issues-.NET%20Core-blue.svg?style=for-the-badge)](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Adotnet) [![React issues](https://img.shields.io/badge/open%20issues-react-green.svg?style=for-the-badge)](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Areact)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CNNQ78J2Z)**
 
