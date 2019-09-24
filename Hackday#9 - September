@@ -1,5 +1,5 @@
 
-# Hackday#8 - 28 September 2019
+# Hackday#9 - 28 September 2019
 
 ## Proiecte:
 
@@ -46,7 +46,42 @@ Currently, the project has 2 main parts:
 - a [form](https://github.com/code4romania/catalog-politic-form/issues), built using React, where we will be able to insert meaningful information about profiles, that will be able to persist data to a DynamoDB instance
 
 **Tech stack**: [GatsbyJS, React](https://github.com/code4romania/catalog-politic/issues)
-[Docker](https://github.com/code4romania/catalog-politic-form/issues)
+[React](https://github.com/code4romania/catalog-politic-form/issues)
+
+**[Slack channel](https://codeforromania.slack.com/messages/CNA1BEP0S)**
+
+:question: **Contact person**: @radu.stefanescu, @owlree on slack
+
+### Rezultate Vot
+
+The project aims to be an aggregator for election information in Romania. The project will contain historic information for elections in Romania, will contain real time results for each election, as it will parse results published by BEC (Biroul Electoral Central) and it will also contain information about the budgets spent during the electoral campaign.
+
+Currently our focus is on:
+- [importing historic results](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Ahistoric-results) of elections 
+- being prepared for providing [live results](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Avote-results) during the counting of the next round of elections.
+
+**Tech stack**: [.NET Core](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Adotnet)
+[React](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Areact)
+
+**[Slack channel](https://codeforromania.slack.com/messages/CNNQ78J2Z)**
+
+:question: **Contact person**: @radu.stefanescu on slack
+
+### Seismic Risc
+
+Let's save lives together!
+
+Seisimic Risc aims to become an aggregator of seismic data and building analysis, currently focusing on data in Bucharest, but looking towards expading for the whole country.
+
+Currently we are focusing on:
+- building a [map](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Amap) that displays information about buildings and their classification
+- a simple [CMS](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Acms) to be able, as an admin of the platform, to insert data, validate user inputs
+
+**Tech stack**: [Python/Django](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Adjango)
+
+**[Slack channel](https://codeforromania.slack.com/messages/CLM4014BB)**
+
+:question: **Contact person**: @radu.stefanescu on slack
 
 ### Catalog politic - Declaratii de avere
 
@@ -73,6 +108,7 @@ We are currently working on:
 :question: **Contact person**: @catileptic @radu.stefanescu on Slack
 
 ### ANABI - Portalul Bunurilor Confiscate
+
 ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pentru Administrarea Bunurilor Indisponibilizate (ANABI) o platformă despre ce, cât și de unde se confiscă în România, din infracțiuni. Punem totul pe hartă, pentru ca tu să știi ce se petrece. ANABI va folosi platforma pentru a gestiona aceste bunuri la nivel național, inclusiv re-directionarea acestor resurse. Astfel, platforma va transparentiza procesul de utilizare a bunurilor confiscate.
 
 **Tech stack**: [Angular](https://github.com/code4romania/anabi-gestiune-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aangular),
@@ -86,57 +122,6 @@ ANABI - Portalul bunurilor confiscate Dezvoltăm pentru Agenția Națională pen
 **[Slack channel](https://codeforromania.slack.com/messages/CGEBAPH29)**
 
 :question: **Contact person**: @vlad.dinulescu @Bogdan Constantinescu @alex_albu on Slack
-
-### Centru Civic
-
-The project aims to turn into the public library of Romanian civic tech.
-
-- There are some [API defects](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Abug) that hinder the current deployment and need urgent atention.
-- We also have some new designs for the site. We have some [Front end](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3Afront-end) issues and [Research](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch) tasks and also some small API development issues. 
-- We would also like to set up some automated tests for the API so we have some open [testing](https://github.com/code4romania/civichq-api/labels/testing) tasks as well.
-- Another step for improving the solution is to provide a [Dockerfile](https://github.com/code4romania/civichq-api/issues/68) for running this solution as a standalone container.
-
-**Tech stack**: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js+project%3Acode4romania%2F8), [Angular 7](https://github.com/code4romania/civichq-client/issues?q=is%3Aopen+label%3Aangular+project%3Acode4romania%2F8)
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/8)**
-
-[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/civichq-api/labels/testing) [![Research issues](https://img.shields.io/badge/open%20issues-Research-9cf.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch)  [![Express.js issues](https://img.shields.io/badge/open%20issues-expressjs-yellow.svg?style=for-the-badge)](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js+project%3Acode4romania%2F8)  [![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?q=is%3Aopen+label%3Aangular+project%3Acode4romania%2F8) 
-
-**[Slack channel](https://codeforromania.slack.com/messages/CGD9BHS56)**
-
-:question: **Contact person**: @radu.stefanescu @oliviavereha @aniri on slack  
-
-### RVM - Resource & Volunteer Management App
-
-RVM is a technical solution that will serve the Department for Emergency Situations in case of any natural or accidental crisis situation, allowing them to keep track of CSO resource stock and volunteering capacity at any given moment in time. The solution will cut down bureaucracy, human error and both human and time resource waste on logistical aspects of maintaining such a database up to date and make use of it in times of distress.
-
-The project has 3 modules:
-- An API that will serve both the web client and the mobile application
-- A web application client, that will be used by administrators and NGOs
-- A mobile application, used by DSU agents
-
-Wireframes for the solution can be found here: 
-
-- [Web Wireframes](https://www.figma.com/file/K7Qqywpx1QFVzG1ml2Fa3qsv/Resource-%26-Volunteer-Management-App)
-
-- [Mobil App Wireframes](https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy))
-
-
-**Tech stack**: [Angular](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen+label%3Aangular),
-[PHP/Laravel](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen+label%3APHP%2FLaravel)
-[React Native](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen+label%3Areact-native)
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/14)**
-
-[![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen+label%3Aangular) 
-[![PHP/Laravel issues](https://img.shields.io/badge/open%20issues-php/laravel-red.svg?style=for-the-badge)](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen+label%3APHP%2FLaravel)
-[![React Native issues](https://img.shields.io/badge/open%20issues-react%20native-blue.svg?style=for-the-badge)](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen+label%3Areact-native)
-
-
-**[Slack channel](https://codeforromania.slack.com/messages/CKRQ1TF09)**
-
-:question: **Contact person**: @radu.stefanescu on Slack
-
 
 ### Legal Consultation App
 
@@ -159,3 +144,23 @@ Wireframes for the project can be found here:
 **[Slack channel](https://codeforromania.slack.com/messages/CKRS59XTK)**
 
 :question: **Contact person**: @radu.stefanescu on Slack
+
+
+### Centru Civic
+
+The project aims to turn into the public library of Romanian civic tech.
+
+- There are some [API defects](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Abug) that hinder the current deployment and need urgent atention.
+- We also have some new designs for the site. We have some [Front end](https://github.com/code4romania/civichq-client/issues?q=is%3Aissue+is%3Aopen+label%3Afront-end) issues and [Research](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch) tasks and also some small API development issues. 
+- We would also like to set up some automated tests for the API so we have some open [testing](https://github.com/code4romania/civichq-api/labels/testing) tasks as well.
+- Another step for improving the solution is to provide a [Dockerfile](https://github.com/code4romania/civichq-api/issues/68) for running this solution as a standalone container.
+
+**Tech stack**: [Express.js](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js+project%3Acode4romania%2F8), [Angular 7](https://github.com/code4romania/civichq-client/issues?q=is%3Aopen+label%3Aangular+project%3Acode4romania%2F8)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/8)**
+
+[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/civichq-api/labels/testing) [![Research issues](https://img.shields.io/badge/open%20issues-Research-9cf.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AResearch)  [![Express.js issues](https://img.shields.io/badge/open%20issues-expressjs-yellow.svg?style=for-the-badge)](https://github.com/code4romania/civichq-api/issues?q=is%3Aissue+is%3Aopen+label%3Aespress-js+project%3Acode4romania%2F8)  [![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/civichq-client/issues?q=is%3Aopen+label%3Aangular+project%3Acode4romania%2F8) 
+
+**[Slack channel](https://codeforromania.slack.com/messages/CGD9BHS56)**
+
+:question: **Contact person**: @radu.stefanescu @oliviavereha @aniri on slack  
