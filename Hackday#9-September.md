@@ -8,22 +8,22 @@
 A digital tool for election monitoring. It has three main parts: 
 
 - a [public platform](https://monitorizarevot.ro/) where anyone can read the voting rules and report if they notice anything that goes against the voting rules 
-- native apps for both Android and iOS allowing observers to send real-time reports from the field
-- admin platform for NGOs that register election observers
+- native apps for both Android and iOS allowing observers to send real-time reports from the polling stations
+- admin platform for NGOs that register election observers, create election monitoring forms and send real-time notifications to observers
 
 After the latest elections, we realized we need to enhance the platform with new functionalities, so right now we are focusing on:
 
-- enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/issues) for the next set of elections coming in November - the features we are looking at implementing are importing polling station information, observer management, forms management and reporting
+- enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/issues) for the next set of elections coming in November - the features we are looking at implementing are importing polling station information, observer management, forms management, push notifications
+- update the iOS application with a new UX/UI and re-write the [Android application from scratch in Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues)
 - a new [admin dashboard](https://github.com/code4romania/monitorizare-vot-votanti-client/issues) for the public platform that will allow admins to easily update the website info (voting rules, report form) and approve or reject reports sent by users
 - setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
 - improve both the codebase and the UX of the mobile apps, for this we have some [research tasks](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch)
-- update the iOS application with a new UX/UI and re-write the [Android application from scratch in Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues)
 
 **Tech stack**:
 
-- public platform: [PHP](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) (Laravel 5) for the API, [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) on frontend
-- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot-ong) and [Angular 2](https://github.com/code4romania/monitorizare-vot-ong) frontend
-- mobile applications: [Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues)
+- public platform: [PHP/Laravel 5](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) for the API, [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) on frontend
+- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot-ong) and [Angular 5](https://github.com/code4romania/monitorizare-vot-ong) frontend
+- mobile applications: [Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues) and [Swift 5](https://github.com/code4romania/monitorizare-vot-ios)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
 
@@ -48,6 +48,8 @@ Currently, the project has 2 main parts:
 **Tech stack**: [GatsbyJS, React](https://github.com/code4romania/catalog-politic/issues)
 [React](https://github.com/code4romania/catalog-politic-form/issues)
 
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/17)**
+
 **[Slack channel](https://codeforromania.slack.com/messages/CNA1BEP0S)**
 
 :question: **Contact person**: @radu.stefanescu, @owlree on slack
@@ -62,6 +64,8 @@ Currently our focus is on:
 
 **Tech stack**: [.NET Core](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Adotnet)
 [React](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Areact)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/18)**
 
 **[Slack channel](https://codeforromania.slack.com/messages/CNNQ78J2Z)**
 
@@ -78,6 +82,8 @@ Currently we are focusing on:
 - a simple [CMS](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Acms) to be able, as an admin of the platform, to insert data, validate user inputs
 
 **Tech stack**: [Python/Django](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Adjango)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/16)**
 
 **[Slack channel](https://codeforromania.slack.com/messages/CLM4014BB)**
 
