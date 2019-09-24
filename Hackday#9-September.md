@@ -44,10 +44,12 @@ Currently, the project has 2 main parts:
 - the website, that will display the profiles of political figures, and that currently focuses on displaying the profiles of presidential elections candidates, and that uses the [GatsbyJS static website framework](https://github.com/code4romania/catalog-politic/issues)
 - a [form](https://github.com/code4romania/catalog-politic-form/issues), built using React, where we will be able to insert meaningful information about profiles, that will be able to persist data to a DynamoDB instance
 
-**Tech stack**: [GatsbyJS, React](https://github.com/code4romania/catalog-politic/issues)
+**Tech stack**: [GatsbyJS](https://github.com/code4romania/catalog-politic/issues)
 [React](https://github.com/code4romania/catalog-politic-form/issues)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/17)**
+
+[![Gatsby issues](https://img.shields.io/badge/open%20issues-QA-purple.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic/issues) [![React issues](https://img.shields.io/badge/open%20issues-QA-orange.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic-form/issues)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CNA1BEP0S)**
 
@@ -66,6 +68,8 @@ Currently our focus is on:
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/18)**
 
+[![dotnet issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Adotnet) [![React issues](https://img.shields.io/badge/open%20issues-react-green.svg?style=for-the-badge)](https://github.com/code4romania/rezultate-vot/issues?q=is%3Aissue+is%3Aopen+label%3Areact)
+
 **[Slack channel](https://codeforromania.slack.com/messages/CNNQ78J2Z)**
 
 :question: **Contact person**: @radu.stefanescu on slack
@@ -83,6 +87,8 @@ Currently we are focusing on:
 **Tech stack**: [Python/Django](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Adjango)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/16)**
+
+[![Django issues](https://img.shields.io/badge/open%20issues-django-orange.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc/issues)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CLM4014BB)**
 
