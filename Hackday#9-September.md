@@ -22,7 +22,7 @@ After the latest elections, we realized we need to enhance the platform with new
 **Tech stack**:
 
 - public platform: [PHP/Laravel 5](https://github.com/code4romania/monitorizare-vot-votanti-api/issues?q=is%3Aissue+is%3Aopen+label%3Aphp) for the API, [React](https://github.com/code4romania/monitorizare-vot-votanti-admin/issues?q=is%3Aissue+is%3Aopen+label%3Areact) on frontend
-- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot-ong) and [Angular 5](https://github.com/code4romania/monitorizare-vot-ong) frontend
+- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot-ong/issues?q=is%3Aissue+is%3Aopen+label%3Adotnet) and [Angular 5](https://github.com/code4romania/monitorizare-vot-ong/issues?q=is%3Aissue+is%3Aopen+label%3Aangular) frontend
 - mobile applications: [Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues) and [Swift 5](https://github.com/code4romania/monitorizare-vot-ios)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
