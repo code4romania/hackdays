@@ -31,27 +31,6 @@ After the latest elections, we realized we need to enhance the platform with new
 
 :question: **Contact person**: @bogdanvizureanu, @aniri on slack
 
-### Catalog Politic - website
-
-Catalog Politic aims to become the first aggregator of political figures profiles.
-
-Information about political figures is highly dispared, the public accessible data can be found in many sources. Many of them are unknown to the public or simply too hard to find. The aim of the project is to make this data transparent, so that any information can be easily accessible.
-
-Currently, the project has 2 main parts:
-- the website, that will display the profiles of political figures, and that currently focuses on displaying the profiles of presidential elections candidates, and that uses the [GatsbyJS static website framework](https://github.com/code4romania/catalog-politic/issues)
-- a [form](https://github.com/code4romania/catalog-politic-form/issues), built using React, where we will be able to insert meaningful information about profiles, that will be able to persist data to a DynamoDB instance
-
-**Tech stack**: [GatsbyJS](https://github.com/code4romania/catalog-politic/issues)
-[React](https://github.com/code4romania/catalog-politic-form/issues)
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/17)**
-
-[![Gatsby issues](https://img.shields.io/badge/open%20issues-gatsbyjs-purple.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic/issues) [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/catalog-politic-form/issues)
-
-**[Slack channel](https://codeforromania.slack.com/messages/CNA1BEP0S)**
-
-:question: **Contact person**: @owlree on slack
-
 ### Catalog politic - Declaratii de avere
 
 Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
