@@ -37,7 +37,7 @@ Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app f
 We are currently working on:
 
 - Docker-izing Catalog Politic - Digitalizare Declarații (which includes the web application used for digitalization and PyBossa)
-- autoamtic deployment using Travis CI and AWS
+- automatic deployment using Travis CI and AWS
 - creating automated tests
 - testing the workflow, manually, to ensure it works end to end and to get feedback on ways to improve on it
 
@@ -77,7 +77,7 @@ Currently our focus is on:
 
 Let's save lives together!
 
-Seisimic Alert aims to become an aggregator of seismic data and building analysis, currently focusing on data in Bucharest, but looking towards expading for the whole country.
+Seismic Alert aims to become an aggregator of seismic data and building analysis, currently focusing on data in Bucharest, but looking towards expading for the whole country.
 
 Currently we are focusing on:
 - building a [map](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Amap) that displays information about buildings and their classification
