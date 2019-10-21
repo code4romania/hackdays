@@ -182,7 +182,7 @@ We are currently looking for devops helpers :smile: as we need an automatic depl
 **Tech stack**:
 
 - (backend) NodeJS
-- (frontend) React
+- (frontend) Nuxt.js
 
 [![DevOps issues client](https://img.shields.io/badge/open%20issues-frontend-green.svg?style=for-the-badge)](https://github.com/code4romania/theater-hub-client/issues)
 [![DevOps issues API](https://img.shields.io/badge/open%20issues-backend-blue.svg?style=for-the-badge)](https://github.com/code4romania/theater-hub-api/issues)
