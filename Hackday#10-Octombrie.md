@@ -130,15 +130,15 @@ Wireframes for the solution can be found here:
 - [Mobil App Wireframes](https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy))
 
 
-**Tech stack**: [Angular](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen+label%3Aangular),
-[PHP/Laravel](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen+label%3APHP%2FLaravel)
-[React Native](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen+label%3Areact-native)
+**Tech stack**: [Angular](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen),
+[PHP/Laravel](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen)
+[React Native](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/14)**
 
-[![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen+label%3Aangular) 
-[![PHP/Laravel issues](https://img.shields.io/badge/open%20issues-php/laravel-red.svg?style=for-the-badge)](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen+label%3APHP%2FLaravel)
-[![React Native issues](https://img.shields.io/badge/open%20issues-react%20native-blue.svg?style=for-the-badge)](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen+label%3Areact-native)
+[![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen) 
+[![PHP/Laravel issues](https://img.shields.io/badge/open%20issues-php/laravel-red.svg?style=for-the-badge)](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen)
+[![React Native issues](https://img.shields.io/badge/open%20issues-react%20native-blue.svg?style=for-the-badge)](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen)
 
 
 **[Slack channel](https://codeforromania.slack.com/messages/CKRQ1TF09)**
