@@ -73,11 +73,11 @@ Currently our focus is on:
 
 :question: **Contact person**: @Bogdan Bujdea on slack
 
-### Seismic Alert
+### Seismic Risc
 
 Let's save lives together!
 
-Seismic Alert aims to become an aggregator of seismic data and building analysis, currently focusing on data in Bucharest, but looking towards expading for the whole country.
+Seismic Risc aims to become an aggregator of seismic data and building analysis, currently focusing on data in Bucharest, but looking towards expading for the whole country.
 
 Currently we are focusing on:
 - building a [map](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Amap) that displays information about buildings and their classification
