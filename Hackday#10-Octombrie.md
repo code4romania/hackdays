@@ -2,34 +2,6 @@
 
 ## Proiecte:
 
-### Monitorizare Vot
-
-A digital tool for election monitoring. It has two main parts: 
-
-- native apps for both Android and iOS allowing observers to send real-time reports from the polling stations
-- admin platform for NGOs that register election observers, create election monitoring forms and send real-time notifications to observers
-
-After the latest elections, we realized we need to enhance the platform with new functionalities, so right now we are focusing on:
-
-- enhancements on [NGO platform](https://github.com/code4romania/monitorizare-vot-ong/issues) for the next set of elections coming in November - the features we are looking at implementing are importing polling station information, observer management, forms management, push notifications
-- update the iOS application with a new UX/UI and re-write the [Android application from scratch in Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues)
-- setting up some [manual](https://github.com/code4romania/monitorizare-vot-android/labels/testing) and automated tests for the apps and APIs
-- improve both the codebase and the UX of the mobile apps, for this we have some [research tasks](https://github.com/code4romania/monitorizare-vot-android/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch)
-
-**Tech stack**:
-
-- NGO admin platform: [.NET Core API](https://github.com/code4romania/monitorizare-vot/issues) and [Angular 5](https://github.com/code4romania/monitorizare-vot-ong/issues?q=is%3Aissue+is%3Aopen+label%3Aangular) frontend
-- mobile applications: [Kotlin](https://github.com/code4romania/mon-vot-android-kotlin/issues) and [Swift 5](https://github.com/code4romania/monitorizare-vot-ios/issues)
-
-:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/7)**
-
-[![QA issues](https://img.shields.io/badge/open%20issues-QA-red.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-android/labels/testing)
-[![.NET Core issues](https://img.shields.io/badge/open%20issues-dotnet-blue.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot/issues) [![Angular issues](https://img.shields.io/badge/open%20issues-angular-cyan.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ong/labels/may-release) [![Kotlin issues](https://img.shields.io/badge/open%20issues-kotlin-brown.svg?style=for-the-badge)](https://github.com/code4romania/mon-vot-android-kotlin/issues) [![iOS issues](https://img.shields.io/badge/open%20issues-ios-green.svg?style=for-the-badge)](https://github.com/code4romania/monitorizare-vot-ios/issues)
-
-**[Slack channel](https://codeforromania.slack.com/messages/CGE0NEG5S)**
-
-:question: **Contact person**: @bogdanvizureanu, @aniri on slack
-
 ### Catalog politic - Declaratii de avere
 
 Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
