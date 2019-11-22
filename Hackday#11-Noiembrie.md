@@ -73,11 +73,11 @@ Currently we are focusing on:
 - building a [map](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Amap) that displays information about buildings and their classification
 - a simple [CMS](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Acms) to be able, as an admin of the platform, to insert data, validate user inputs
 
-**Tech stack**: [Python/Django](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Adjango)
+**Tech stack**: [Python/Django](https://github.com/code4romania/seismic-risc/issues?q=is%3Aissue+is%3Aopen+label%3Adjango) [React](https://github.com/code4romania/seismic-risc-client/issues)
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/16)**
 
-[![Django issues](https://img.shields.io/badge/open%20issues-django-orange.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc/issues)
+[![Django issues](https://img.shields.io/badge/open%20issues-django-orange.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc/issues)[![React issues](https://img.shields.io/badge/open%20issues-react-green.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc-client/issues)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CLM4014BB)**
 
