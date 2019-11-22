@@ -2,6 +2,26 @@
 
 ## Proiecte:
 
+### Teacher Brain Fitness
+
+Web app for creating educational content for the continuous formation of teachers. Mobile app for teachers, used to consume these lessons and track their progress.
+
+React Native (mobile), React (frontend), Python 3.6+ / Flask (backend)
+
+**Tech stack**: [React Native](https://github.com/code4romania/brain-fitness-mobile/issues), 
+[React](https://github.com/code4romania/brain-fitness-client/issues), 
+[Python 3.6+ / Flask](https://github.com/code4romania/brain-fitness-api/issues)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/20)**
+
+[![React Native issues](https://img.shields.io/badge/open%20issues-react_native-green.svg?style=for-the-badge)](https://github.com/code4romania/brain-fitness-mobile/issues)
+[![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/brain-fitness-client/issues)
+[![Flask issues](https://img.shields.io/badge/open%20issues-flask-blue.svg?style=for-the-badge)](https://github.com/code4romania/brain-fitness-api/issues)
+
+**[Slack channel](_)**
+
+:question: **Contact person**: @catileptic on Slack
+
 ### Catalog politic - Declaratii de avere
 
 Catalog Politic - Asset declarations is a crowd sourcing and volunteer aid app for digitizing asset declarations of Romania's public figures. This tool aims to provide an easy and simple way to transform asset declarations from a pdf format to a consistent data model that can be analyzed and interpreted, while opening this information to a larger audience.
