@@ -16,7 +16,7 @@ Web app for creating educational content for the continuous formation of teacher
 [![React issues](https://img.shields.io/badge/open%20issues-react-orange.svg?style=for-the-badge)](https://github.com/code4romania/brain-fitness-client/issues)
 [![Flask issues](https://img.shields.io/badge/open%20issues-flask-blue.svg?style=for-the-badge)](https://github.com/code4romania/brain-fitness-api/issues)
 
-**[Slack channel](_)**
+**[Slack channel](https://codeforromania.slack.com/archives/CQVB988G0)**
 
 :question: **Contact person**: @catileptic on Slack
 
