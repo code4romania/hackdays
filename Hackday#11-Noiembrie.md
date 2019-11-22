@@ -77,7 +77,7 @@ Currently we are focusing on:
 
 :clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/16)**
 
-[![Django issues](https://img.shields.io/badge/open%20issues-django-orange.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc/issues)[![React issues](https://img.shields.io/badge/open%20issues-react-green.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc-client/issues)
+[![Django issues](https://img.shields.io/badge/open%20issues-django-orange.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc/issues) [![React issues](https://img.shields.io/badge/open%20issues-react-green.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc-client/issues)
 
 **[Slack channel](https://codeforromania.slack.com/messages/CLM4014BB)**
 
