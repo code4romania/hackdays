@@ -6,8 +6,6 @@
 
 Web app for creating educational content for the continuous formation of teachers. Mobile app for teachers, used to consume these lessons and track their progress.
 
-React Native (mobile), React (frontend), Python 3.6+ / Flask (backend)
-
 **Tech stack**: [React Native](https://github.com/code4romania/brain-fitness-mobile/issues), 
 [React](https://github.com/code4romania/brain-fitness-client/issues), 
 [Python 3.6+ / Flask](https://github.com/code4romania/brain-fitness-api/issues)
