@@ -131,6 +131,37 @@ We are currently working on:
 
 :question: **Contact person**: @costi on Slack
 
+### RVM - Resource & Volunteer Management App
+
+RVM is a technical solution that will serve the Department for Emergency Situations in case of any natural or accidental crisis situation, allowing them to keep track of CSO resource stock and volunteering capacity at any given moment in time. The solution will cut down bureaucracy, human error and both human and time resource waste on logistical aspects of maintaining such a database up to date and make use of it in times of distress.
+
+The project has 3 modules:
+- An API that will serve both the web client and the mobile application
+- A web application client, that will be used by administrators and NGOs
+- A mobile application, used by DSU agents
+
+Wireframes for the solution can be found here: 
+
+- [Web Wireframes](https://www.figma.com/file/K7Qqywpx1QFVzG1ml2Fa3qsv/Resource-%26-Volunteer-Management-App)
+
+- [Mobil App Wireframes](https://www.figma.com/file/RIKRNKzDKb1VH3sOmEiER9/VoluntarDRM-(Copy))
+
+
+**Tech stack**: [Angular](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen),
+[PHP/Laravel](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen)
+[React Native](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen)
+
+:clipboard: **[Github Board](https://github.com/orgs/code4romania/projects/14)**
+
+[![Angular issues](https://img.shields.io/badge/open%20issues-angular-orange.svg?style=for-the-badge)](https://github.com/code4romania/rvm-client/issues?q=is%3Aissue+is%3Aopen) 
+[![PHP/Laravel issues](https://img.shields.io/badge/open%20issues-php/laravel-red.svg?style=for-the-badge)](https://github.com/code4romania/rvm-api/issues?q=is%3Aissue+is%3Aopen)
+[![React Native issues](https://img.shields.io/badge/open%20issues-react%20native-blue.svg?style=for-the-badge)](https://github.com/code4romania/rvm-mobile/issues?q=is%3Aissue+is%3Aopen)
+
+
+**[Slack channel](https://codeforromania.slack.com/messages/CKRQ1TF09)**
+
+:question: **Contact person**: @Gheorghe on Slack
+
 ### Theatre Hub
 
 The main goal of Theater Hub is to form a community of professionals working in the theater industry. 
